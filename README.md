@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 #### Now, I am 24 age and live in Hanoi city
 #### I’m currently working on Litcommerce. It is a leading company in the field of data migration from site to another site. For example from Woocommerce to Shopify
 #### Contact me at Skype: live:.cid.cbd4c1c2b32e845a
+
+![snake](https://github.com/ntvanank1250/ntvanank1250/blob/main/images/github-snake.svg)
+
