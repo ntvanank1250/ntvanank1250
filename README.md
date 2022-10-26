@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### My full name is Do Duy Hieu but you can call me Tony Do
-#### I am is python developer
+#### I am a python developer
 #### Now, I am 24 age and live in Hanoi city
 #### I’m currently working on Litcommerce. It is a leading company in the field of data migration from site to another site. For example from Woocommerce to Shopify
 #### Contact me at Skype: live:.cid.cbd4c1c2b32e845a
