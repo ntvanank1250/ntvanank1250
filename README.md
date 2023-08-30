@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 #### My full name is Do Duy Hieu but you can call me Tony Do
-#### I am a python developer
+#### I am a Python developer
 #### I'm 24 and I live in Hanoi City
-#### Currently I'm working on Litcommerce, which is a leading company in the field of data migration from site to another site (Ex: from Woocommerce to Shopify)
+#### Currently I'm working at BizflyCloud on VCCorp
 #### Contact me at Skype: live:.cid.cbd4c1c2b32e845a
 #### Linkedin:  [Linkedin](https://www.linkedin.com/in/%C4%91%E1%BB%97-duy-hi%E1%BB%87u-604615181/)
 
